@@ -8,9 +8,7 @@ https://nrobbins.shinyapps.io/20161105_hydropatterning_app/
 File Descriptions
 
 
-/hypocotyl_water_potential_calculator and /root_water_potential_calculator
-
-These folders contain files related to estimation of tissue water potentials for growing hypocotyls and roots.
+/hypocotyl_water_potential_calculator and /root_water_potential_calculator contain files related to estimation of tissue water potentials for growing hypocotyls and roots.
 
 -coefficients_solutions_and_matrices.xlsx: Summary of matrices used to solve the systems of equations for calculating water flow rates and water potentials.
 
@@ -19,9 +17,7 @@ These folders contain files related to estimation of tissue water potentials for
 -REGR.csv: Example relative elemental growth curve used as an input for the script.
 -water_potential_calculator.R: Script for calculating tissue water potentials.
 
-/regression_model_data_sets
-
-This folder contains files used to build the predictive model relating tissue water potentials to lateral root patterning.
+/regression_model_data_sets contains files used to build the predictive model relating tissue water potentials to lateral root patterning.
 
 -all_potentials_and_growth_curves.csv: Full table of relative elemental growth curves and estimated tissue water potentials for every seedling in the training and validation data sets.
 
