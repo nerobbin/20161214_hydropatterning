@@ -19,7 +19,9 @@ File Descriptions
 
 /regression_model_data_sets contains files used to build the predictive model relating tissue water potentials to lateral root patterning.
 
--all_potentials_and_growth_curves.csv: Full table of relative elemental growth curves and estimated tissue water potentials for every seedling in the training and validation data sets.
+-all_growth_data.csv: Full table of relative elemental growth curves for every seedling examined as part of the manuscript. Last 4 columns are the REGR values for each of the 4 biological replicates for each experimental condition.
+
+-regression_model_Oh7B_data.csv: Table of water potentials and lateral root patterning data from comparisons of the two maize inbreds B73 and Oh7B.
 
 -regression_model_training_data.csv: Table of water potentials and lateral root patterning data used to train the regression model. These are from seedlings treated with varying concentrations of mannitol.
 
